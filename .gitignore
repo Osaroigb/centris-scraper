@@ -1,0 +1,11 @@
+__pycache__/
+
+.vscode/
+build/
+dbs/
+eggs/
+project.egg-info/
+logs/
+
+*.json
+*.csv
